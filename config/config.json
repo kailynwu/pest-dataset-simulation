@@ -1,0 +1,28 @@
+{
+  "date_range": {
+    "start": "2023-05-20",
+    "end": "2025-05-20"
+  },
+  "temperature": {
+    "summer": [
+      28.0,
+      3.0
+    ],
+    "winter": [
+      5.0,
+      3.0
+    ],
+    "other": [
+      18.0,
+      3.0
+    ]
+  },
+  "humidity": {
+    "mean": 60.0,
+    "std": 10.0
+  },
+  "rainfall": {
+    "probability": 0.2,
+    "exponential_lambda": 5.0
+  }
+}
